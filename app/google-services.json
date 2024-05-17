@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "828966508467",
+    "project_id": "quizapp-14239",
+    "storage_bucket": "quizapp-14239.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828966508467:android:9e5c6a0da01727574a9dc6",
+        "android_client_info": {
+          "package_name": "com.telema.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7IN_sHC9FmlsGbc3nBvdIR7mR-8XpSac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
